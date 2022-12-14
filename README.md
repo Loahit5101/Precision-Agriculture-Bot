@@ -4,11 +4,9 @@ An agriculture bot we are developing which can help in controlling weed populati
 
 <img src="bot.jpeg" width="550">
 
-
 We built a four wheel drive robot with a camera places in the side to identify crops and weeds as it moves along the rows of crops.
 
-Till now we have built our detection model and preliminary control for our robot, need to integrate both parts.
-
+We have built our detection model and preliminary controller for our robot
 
 Faster RCNN model output:<br>
 <img src="test.png">
